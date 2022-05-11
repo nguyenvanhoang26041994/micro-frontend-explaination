@@ -1,4 +1,8 @@
 # mico-frontend-explaination
-git clone --recurse-submodules git@github.com:nguyenvanhoang26041994/nhactube.com.git
-git clone --recurse-submodules git@github.com:nguyenvanhoang26041994/fork-boilerplate.git
-git clone --recurse-submodules git@github.com:nguyenvanhoang26041994/react-web-components-demo-package.git
+`git submodule update`
+`cd nhactube.com && npm i && yarn build-music-app`
+`cd fork-boilerplate && npm i && yarn build-chat-app`
+`cd react-web-components-demo-package && npm i && yarn build-wc-app`
+
+At the root
+`yarn start`
