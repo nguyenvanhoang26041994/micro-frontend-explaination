@@ -1,0 +1,23 @@
+{
+  "name": "micro-frontend-explaination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server-side.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/server-side.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvanhoang26041994/micro-frontend-explaination.git"
+  },
+  "author": "Hoang Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvanhoang26041994/micro-frontend-explaination/issues"
+  },
+  "homepage": "https://github.com/nguyenvanhoang26041994/micro-frontend-explaination#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
