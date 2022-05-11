@@ -1,0 +1,9 @@
+[submodule "nhactube.com"]
+	path = nhactube.com
+	url = git@github.com:nguyenvanhoang26041994/nhactube.com.git
+[submodule "fork-boilerplate"]
+	path = fork-boilerplate
+	url = git@github.com:nguyenvanhoang26041994/fork-boilerplate.git
+[submodule "react-web-components-demo-package"]
+	path = react-web-components-demo-package
+	url = git@github.com:nguyenvanhoang26041994/react-web-components-demo-package.git
